@@ -26,7 +26,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "http://demo-charts.herokuapp.com/home",
   "eslintConfig": {
     "extends": "react-app"
   },
