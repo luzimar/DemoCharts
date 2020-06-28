@@ -7,7 +7,7 @@ import NotFound from './pages/NotFound';
 
 const Routes: React.FC = () => (
   <Switch>
-    <Route path="/" exact component={Home} />
+    <Route path="/home" exact component={Home} />
     <Route component={NotFound} />
   </Switch>
 )
