@@ -9,7 +9,7 @@
 
 <p align="center">
   <img alt="DemoCharts" src=".readme/home.PNG" width="100%">
-</p>s
+</p>
 
 ## :metro: Tecnologias
 
